@@ -50,7 +50,7 @@ import java.util.List;
 
     /** The keyboard height provider */
     private KeyboardHeightProvider keyboardHeightProvider;
-    private boolean isKeyboardShowing;
+    private boolean isKeyboardShowing; 
     private String htmlContent = "<p>Hello World</p>";
 
     private RichEditorAction mRichEditorAction;
